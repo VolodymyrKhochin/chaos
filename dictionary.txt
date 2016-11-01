@@ -1,7 +1,7 @@
 
 # |   object name       |    object code    |           object description            | 
 --|---------------------|-------------------|-----------------------------------------|
-1 | student             |  student          | person who receive scholarship          |
+1 | student Sirko2097   |  student          | person who receive scholarship          |
 2 | scholarship         |  scholarship      | payment for studying in university      |
 3 | university          |  uni, un          | place where student is styding          |
 4 | the state budget    |  budget           | where we get money for scholarship      |
