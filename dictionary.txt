@@ -22,3 +22,27 @@
 8 | marks               |  marks            | some results of student styding         |
 9 | bank account        |  account          | account that will receive money         |
 ---------------------------------------------------------------------------------------
+
+
+
+                                  Resulting dictionary
+
+
+# |   object name       |    object code    |           object description            | 
+--|---------------------|-------------------|-----------------------------------------|
+1 | student             |  student          | person who receive scholarship          |
+2 | scholarship         |  scholarship      | payment for studying in university      |
+3 | university          |  uni, un          | place where student is styding          |
+4 | the state budget    |  budget           | where we get money for scholarship      |
+5 | bank                |  bank             | foundation for dealing with students    |
+6 | scholarship comitte |  comittee         | group od people who decided which       |
+  |                     |                   | student will get the scholarship        |
+7 | teachers            |  teachers         | persons who teach students and put marks|
+8 | marks               |  marks            | some results of student styding         |
+9 | bank account        |  account          | account that will receive money         |
+10| date                |  date             |  the date of started illness            | 
+11| place               |  place            |  where illness started                  |
+12| hospital            |  hosp             |  where person will have a rest          |
+13| doctor              |  doctor           |  student's doctor                       |
+14| documents           |  docs             |  informations about ilness              |
+---------------------------------------------------------------------------------------
