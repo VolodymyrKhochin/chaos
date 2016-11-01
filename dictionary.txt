@@ -1,0 +1,9 @@
+|= object name === object code ===     object discription       |
+|---------------------------------------------------------------|
+|student       === student     === person who has illness       | 
+|date          === date        === the date of started illness  | 
+|place         === place       === where illness started        |
+|univesity     === un          === where student studies        |
+|hospital      === hosp        === where person will have a rest|
+|doctor        === doctor      === student's doctor             |
+|documents     === docs        === informations about ilness    |
